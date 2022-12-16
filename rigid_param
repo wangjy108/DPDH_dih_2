@@ -1,0 +1,15 @@
+##general
+QM_OPT_ENGINE=g16
+QM_SCAN_ENGINE=g16
+##calculation_detail
+DIH1=6,1,7,8
+DIH2=7,8,9,10
+TERVAL1=20
+TERVAL2=20                                                                                                  
+CHARGE=1
+SPIN=1
+FUNCTIONAL=b3lyp
+CHK=0
+D3=1
+OPT_BASIS=6-31G*
+SCAN_BASIS=6-311G*

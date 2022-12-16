@@ -1,0 +1,7 @@
+#!/bin/sh
+# serial parameter saving steps 
+
+./gentor <<EOF
+xyz
+
+EOF
